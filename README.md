@@ -1,9 +1,6 @@
 # Hi, I'm [Maksym](https://github.com/Makc240305) 👋
 
 I'm a **Frontend Developer** with experience in HTML, CSS, JavaScript, React, and other modern web technologies.
-
-![Frontend Developer]
-
 ## Technologies I work with:
 
 - ### Languages, libraries & tools
