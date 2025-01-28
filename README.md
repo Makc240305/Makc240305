@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/21531695-d902-4b4b-9334-e906720c5dcf)![image](https://github.com/user-attachments/assets/32840e4c-94dc-474a-b670-331ecacd1a1c)# Hi, I'm [Maksym](https://github.com/Makc240305) 👋
+# Hi, I'm [Maksym](https://github.com/Makc240305) 👋
 
 I'm a **Frontend Developer** with experience in HTML, CSS, JavaScript, React, and other modern web technologies.
 
@@ -6,7 +6,7 @@ I'm a **Frontend Developer** with experience in HTML, CSS, JavaScript, React, an
 
 ## Technologies I work with:
 
-- **Languages, libraries & tools **  
+- ### Languages, libraries & tools
    <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
    <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
