@@ -11,7 +11,6 @@ I'm a **Frontend Developer** with experience in HTML, CSS, JavaScript, React, an
    <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
    <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"></code>
    <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png"></code>
-   <code><img height="20" src="https://miro.medium.com/v2/resize:fit:910/1*mGWjCa2BFlJwwgZAwE6spA.jpeg"></code>
    <code><img height="20" src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png"></code>
    <code><img height="20" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4"></code>
    <code><img height="20" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703155483443/e42a7be2-890a-4bd2-accf-306e53ccebbd.png"></code>
