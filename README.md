@@ -2,7 +2,7 @@
 
 I'm a **Frontend Developer** with experience in HTML, CSS, JavaScript, React, and other modern web technologies.
 
-![Frontend Developer](https://img.shields.io/badge/Frontend%20Developer-React-61DAFB?style=for-the-badge&logo=react)
+![Frontend Developer]
 
 ## Technologies I work with:
 
