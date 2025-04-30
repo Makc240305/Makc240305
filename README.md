@@ -1,21 +1,24 @@
-# Hi, I'm [Maksym](https://my-portfolio-silk-five-22.vercel.app/) 👋
+# 👋 Hi, I'm [Maksym](https://my-portfolio-silk-five-22.vercel.app/)
 
-I'm a **Frontend Developer** with experience in HTML, CSS, JavaScript, React, and other modern web technologies.
+🎯 Passionate Computer Science student seeking a **UI/Front-End internship**.  
+🧠 Hands-on experience with **JavaScript**, **TypeScript**, **React**, and modern UI frameworks.  
+🎨 Skilled in building responsive, accessible, and pixel-perfect interfaces with **HTML5**, **CSS3**, **SCSS/SASS**, **Tailwind CSS**, and **BEM** methodology.  
+🧩 Familiar with UX principles, component-driven design, state management (**Redux**, **Context API**), testing (**Jest**, **React Testing Library**), and **REST/GraphQL** APIs.  
+🧮 Solid grasp of data structures, algorithms, and Agile workflows using **Git/GitHub**.  
+🌐 Upper-Intermediate English (B2) and eager to contribute to a dynamic UI team.
 
-## Technologies & Tools I Work With
+---
 
-### Languages, Libraries & Frameworks
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
-<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png"></code>
+## 💻 Core Skills
 
-### Other Tools & Technologies
-<code><img height="20" src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4"></code>
-<code><img height="20" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703155483443/e42a7be2-890a-4bd2-accf-306e53ccebbd.png"></code>
+| **Category**         | **Skills**                                                                                                                                       |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**        | JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS/SASS, C# *(Intermediate)*, Java *(Intermediate)*                                                |
+| **Frameworks / Libs**| React.js, Next.js *(Basic)*, Vue.js *(Basic)*, Redux, Framer Motion, Tailwind CSS, Material-UI, Chakra UI                                       |
+| **Technologies**     | REST & GraphQL, Axios, Fetch API, Jest, React Testing Library, Cypress, Storybook, Webpack, Vite, npm, ESLint, Prettier                         |
+| **Methodologies**    | Agile, Scrum, Kanban, TDD, Component-Driven Development                                                                                          |
 
-## What I'm Looking For
-I am actively seeking **internship opportunities** or **practical experience** as a Frontend Developer. I'm excited to enhance my skills and contribute to impactful projects.
+---
+
+📫 **Let's connect!**  
+I'm open to opportunities where I can grow, contribute, and create elegant web interfaces.
