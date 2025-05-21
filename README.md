@@ -1,12 +1,11 @@
 # 👋 Hi, I'm [Maksym](https://my-portfolio-silk-five-22.vercel.app/)
 
-🎯 Passionate Computer Science student seeking a Internship.
-🧠 Hands-on experience building modern web apps using JavaScript, TypeScript, React, and C#/.NET technologies.
-🎨 Skilled in creating responsive, accessible, and pixel-perfect interfaces with HTML5, CSS3, SCSS/SASS, Tailwind CSS, and BEM.
-🔧 Familiar with backend development using ASP.NET Core, Entity Framework, LINQ, and relational databases.
-🧩 Understand UX principles, component-driven development, state management (Redux, Context API), and working with REST/GraphQL APIs.
-🧮 Solid grasp of data structures, algorithms, and Agile workflows using Git/GitHub.
-🌐 Upper-Intermediate English (B2) and a strong drive to contribute to high-quality, scalable web solutions.
+🎯 Passionate Computer Science student seeking a **Internship**.  
+🧠 Hands-on experience with **JavaScript**, **TypeScript**, **React**, and modern UI frameworks.  
+🎨 Skilled in building responsive, accessible, and pixel-perfect interfaces with **HTML5**, **CSS3**, **SCSS/SASS**, **Tailwind CSS**, and **BEM** methodology.  
+🧩 Familiar with UX principles, component-driven design, state management (**Redux**, **Context API**), testing (**Jest**, **React Testing Library**), and **REST/GraphQL** APIs.  
+🧮 Solid grasp of data structures, algorithms, and Agile workflows using **Git/GitHub**.  
+🌐 Upper-Intermediate English (B2) and eager to contribute to a dynamic UI team.
 
 ---
 
